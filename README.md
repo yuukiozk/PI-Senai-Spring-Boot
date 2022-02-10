@@ -1,2 +1,2 @@
 # ProjetoPiTeste
-Atividade proposta pelo Senai, acompanhada pelo Tutor Arthur, Felipe e Rolfi 
+Atividade proposta pelo Senai, acompanhada pelos Tutores Arthur, Felipe e Rolfi 
